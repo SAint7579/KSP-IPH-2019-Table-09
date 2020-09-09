@@ -1,4 +1,4 @@
-# KSP-IPH-2019-Table-09
+# Automated Open Source Intelligence
 
 Insert usernames/emails, passwords and cookies wherever required.
 Get curlcmd by capturing analyze from https://azure.microsoft.com/en-ca/services/cognitive-services/text-analytics/ with query=REPLACEME.
